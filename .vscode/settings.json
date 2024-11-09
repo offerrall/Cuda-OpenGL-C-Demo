@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.ino": "cpp",
+        "sdl.h": "c",
+        "sdl_locale.h": "c"
+    }
+}
